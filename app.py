@@ -1,8 +1,7 @@
 import os
 import numpy as np
-import opencv-python as cv2
 # import opencv python as cv2
-# import cv2
+import cv2
 from tensorflow.keras.models import load_model
 import streamlit as st
 from streamlit_drawable_canvas import st_canvas
